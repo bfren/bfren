@@ -1,6 +1,6 @@
 ### Jeebs Rapid Application Development
 
-My primary project is [Jeebs](https://github.com/bfren/jeebs), a series of .NET 5.0 libraries written in C# to help develop applications quickly.
+My primary project is [Jeebs](https://github.com/bfren/jeebs), a series of .NET 6.0 libraries written in C# to help develop applications quickly.
 
 ### Docker Ecosystem
 
