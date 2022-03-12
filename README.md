@@ -1,6 +1,6 @@
-### Jeebs Rapid Application Development
+### C# Rapid Application Development
 
-My primary project is [Jeebs](https://github.com/bfren/jeebs), a series of .NET 6.0 libraries written in C# to help develop applications quickly.
+My primary project is [Jeebs](https://github.com/bfren/jeebs), a series of .NET 6.0 libraries written in C# to help develop applications quickly.  Additionally [Maybe](https://github.com/bfren/maybe) (Maybe monad for C#) and [Rnd](https://github.com/bfren/rnd) (random value generators) provide useful functions.
 
 ### Docker Ecosystem
 
