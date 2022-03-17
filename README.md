@@ -1,6 +1,8 @@
 ### C# Rapid Application Development
 
-My primary project is [Jeebs](https://github.com/bfren/jeebs), a series of .NET 6.0 libraries written in C# to help develop applications quickly.  Additionally [Maybe](https://github.com/bfren/maybe) (Maybe monad for C#) and [Rnd](https://github.com/bfren/rnd) (random value generators) provide useful functions.
+* [Jeebs](https://github.com/bfren/jeebs) is my primary project, a series of .NET libraries written in C#.
+* [Maybe](https://github.com/bfren/maybe) is a Maybe monad for C#.
+* [Rnd](https://github.com/bfren/rnd) is a series of random value generators.
 
 ### Docker Ecosystem
 
