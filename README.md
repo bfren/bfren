@@ -6,4 +6,4 @@
 
 ### Docker Ecosystem
 
-Alongside that I also maintain an [ecosystem](https://github.com/bfren/docker) of Docker images which I use for almost all my web hosting.
+Alongside these I maintain an [ecosystem](https://github.com/bfren/docker) of Docker images which I use for almost all my web hosting.
