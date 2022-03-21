@@ -1,8 +1,8 @@
 ### C# Rapid Application Development
 
 * [Jeebs](https://github.com/bfren/jeebs) is my primary project, a series of .NET libraries written in C#.
-* [Maybe](https://github.com/bfren/maybe) is a Maybe monad for C#.
-* [Rnd](https://github.com/bfren/rnd) is a series of random value generators.
+* [Maybe](https://github.com/bfren/maybe) is a Maybe monad for C# with support for Linq, async, and method chaining.
+* [Rnd](https://github.com/bfren/rnd) contains random value generators, including Integer, DateTime, Guid, and strings.
 
 ### Docker Ecosystem
 
