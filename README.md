@@ -8,3 +8,5 @@
 | [StrongId](https://github.com/bfren/strongid) enables C# strongly-typed ID values, supporting JSON, Dapper, and MVC. | [![GitHub release](https://img.shields.io/github/v/release/bfren/strongid?include_prereleases&label=latest)](https://www.nuget.org/packages/strongid/) ![GitHub Release Date](https://img.shields.io/github/release-date/bfren/strongid?label=date) |
 
 Alongside these I maintain an [ecosystem](https://github.com/bfren/docker) of Docker images which I use for almost all my web hosting.
+
+[![bfren's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bfren)](https://github.com/anuraghazra/github-readme-stats) [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bfren&hide=javascript,scss,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
