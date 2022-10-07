@@ -1,4 +1,4 @@
-### My Main Projects
+### Main Projects
 
 | C# Rapid Application Development | Releases |
 |-|-|
