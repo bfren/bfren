@@ -4,7 +4,7 @@
 
 [Jeebs](https://github.com/bfren/jeebs) – rapid application development, including a [WordPress](https://wordpress.org) wrapper.
 
-[Maybe](https://github.com/bfren/maybe) – a Maybe monad with support for Linq, async, and method chaining. ([Nuget](https://www.nuget.org/packages/maybef/))
+[Maybe](https://github.com/bfren/maybe) – a Maybe monad with support for LINQ, async, and method chaining. ([Nuget](https://www.nuget.org/packages/maybef/))
 
 [Rnd](https://github.com/bfren/rnd) – contains C# random generators, supporting numbers, strings, DateTime, and Guid. ([Nuget](https://www.nuget.org/packages/rnd/))
 
