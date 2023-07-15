@@ -14,9 +14,9 @@
 
 ## Applications
 
-[Church Suite Feeds](https://github.com/bfren/churchsuite-feeds) – consumes [Church Suite](https://churchsuite.com) rotas and address book to create various calendar feeds, written in PHP.
+[Church Suite Feeds](https://github.com/bfren/churchsuite-feeds) – consumes [Church Suite](https://churchsuite.com) rotas and address book to create various calendar feeds, written in PHP. ([Docker](https://hub.docker.com/r/bfren/ccf))
 
-[Mileage](https://github.com/bfren/mileage) – simple mileage tracker for expense claims and receipts, written in C#.
+[Mileage](https://github.com/bfren/mileage) – simple mileage tracker for expense claims and receipts, written in C#. ([Docker](https://hub.docker.com/r/bfren/mileage))
 
 ## Others
 
