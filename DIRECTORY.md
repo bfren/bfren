@@ -4,13 +4,13 @@
 
 [Jeebs](https://github.com/bfren/jeebs) – rapid application development, including a [WordPress](https://wordpress.org) wrapper.
 
-[Maybe](https://github.com/bfren/maybe) – a Maybe monad with support for Linq, async, and method chaining.
+[Maybe](https://github.com/bfren/maybe) – a Maybe monad with support for Linq, async, and method chaining. ([Nuget](https://www.nuget.org/packages/maybef/))
 
-[Rnd](https://github.com/bfren/rnd) – contains C# random generators, supporting numbers, strings, DateTime, and Guid.
+[Rnd](https://github.com/bfren/rnd) – contains C# random generators, supporting numbers, strings, DateTime, and Guid. ([Nuget](https://www.nuget.org/packages/rnd/))
 
-[StrongId](https://github.com/bfren/strongid) – strongly-typed ID values, supporting JSON, [Dapper](https://github.com/DapperLib/Dapper), and MVC.
+[Rqlite](https://github.com/bfren/rqlite) – client for data access using [Rqlite](https://rqlite.io). ([Nuget](https://www.nuget.org/packages/rqlite/))
 
-[Rqlite](https://github.com/bfren/rqlite) – client for data access using [Rqlite](https://rqlite.io).
+[StrongId](https://github.com/bfren/strongid) – strongly-typed ID values, supporting JSON, [Dapper](https://github.com/DapperLib/Dapper), and MVC. ([Nuget](https://www.nuget.org/packages/strongid/))
 
 ## Applications
 
