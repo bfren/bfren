@@ -1,4 +1,4 @@
-### Main Projects ([Directory](https://github.com/bfren/bfren/blob/main/DIRECTORY.md))
+### Main Projects - [Directory](https://github.com/bfren/bfren/blob/main/DIRECTORY.md)
 
 | C# Rapid Application Development | Releases |
 |-|-|
