@@ -10,8 +10,6 @@
 
 [Rqlite](https://github.com/bfren/rqlite) – client for data access using [Rqlite](https://rqlite.io). ([Nuget](https://www.nuget.org/packages/rqlite/))
 
-[StrongId](https://github.com/bfren/strongid) – strongly-typed ID values, supporting JSON, [Dapper](https://github.com/DapperLib/Dapper), and MVC. ([Nuget](https://www.nuget.org/packages/strongid/))
-
 [Wrap](https://github.com/bfren/wrap) – Either, Maybe, Result and StrongId monads with support for LINQ, async, and method chaining. ([Nuget](https://www.nuget.org/packages/wrap/))
 
 ## Applications
@@ -23,6 +21,8 @@
 ## Others
 
 [Busybox](https://github.com/bfren/busybox) – [Busybox](https://busybox.net) binaries pre-built for [Debian](https://debian.org).
+
+[txiki.js](https://github.com/bfren/txikijs) – Statically-linked and tiny [txiki.js](https://txikijs.org) binary built for use in Docker images.
 
 [Docker Ecosystem](https://github.com/bfren/docker) – series of [Docker](https://www.docker.com) images, including [Alpine](https://alpinelinux.org) and [Debian](https://debian.org) base images using the S6 Overlay.
 
