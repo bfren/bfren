@@ -6,7 +6,7 @@
 
 [Rnd](https://github.com/bfren/rnd) – contains C# random generators, supporting numbers, strings, DateTime, and Guid. ([Nuget](https://www.nuget.org/packages/rnd/))
 
-[Wrap](https://github.com/bfren/wrap) – Either, Maybe, Result and StrongId monads with support for LINQ, async, and method chaining. ([Nuget](https://www.nuget.org/packages/wrap/))
+[Wrap](https://github.com/bfren/wrap) – Either, Maybe, Result and Id monads with support for LINQ, async, and method chaining. ([Nuget](https://www.nuget.org/packages/wrap/))
 
 [Rqlite](https://github.com/bfren/rqlite) – client for data access using [Rqlite](https://rqlite.io). ([Nuget](https://www.nuget.org/packages/rqlite/))
 
