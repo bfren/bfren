@@ -1,4 +1,4 @@
-### Main Projects - [Directory](https://github.com/bfren/bfren/blob/main/DIRECTORY.md)
+### .NET Projects - [All](https://github.com/bfren/bfren/blob/main/DIRECTORY.md)
 
 | Library | Description | Releases |
 | - | - | - |
